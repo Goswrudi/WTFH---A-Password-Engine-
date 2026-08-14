@@ -26,7 +26,3 @@ elif(user == 'n'):
 
 else:
     print('Wrong option enterd by User !')
-
-    
-
-
