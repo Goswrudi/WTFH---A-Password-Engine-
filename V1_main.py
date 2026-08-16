@@ -26,3 +26,7 @@ elif(user == 'n'):
 
 else:
     print('Wrong option enterd by User !')
+
+
+# Trying something else after loosing data 
+
